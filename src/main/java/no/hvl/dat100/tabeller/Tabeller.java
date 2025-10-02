@@ -25,7 +25,7 @@ public class Tabeller {
         for (int i = 0; i < tabell.length; i++) {
             resultat += tabell[i];
             if (i != tabell.length - 1) {
-                resultat += ", ";
+                resultat += ",";
             }
         }
         resultat += "] \n";
