@@ -28,7 +28,7 @@ public class Tabeller {
                 resultat += ",";
             }
         }
-        resultat += "] \n";
+        resultat += "]";
         return resultat;
 	}
 
